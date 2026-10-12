@@ -1,0 +1,54 @@
+.driving{
+    height: 100px;
+    width: 500px;
+    background-image: url("https://idsb.tmgrup.com.tr/ly/uploads/images/2021/05/30/118050.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: 0px -100px;
+    text-decoration: none;
+    position: absolute;
+    border-radius: 20px;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 45px;
+    font-family: rubik, helvetica, arial, sans-serif;
+    font-weight: 500;
+    color: #097000;
+
+}
+.doorsach{
+    height: 100px;
+    width: 500px;
+    background-image: url("Garden_Mill.webp");
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: 0px -75px;
+    position: absolute;
+    border-radius: 20px;
+    text-decoration: none;
+    left: 50%;
+    top: 35%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 45px;
+    font-family: rubik, helvetica, arial, sans-serif;
+    font-weight: 500;
+    color: #ffdebd;
+}
+body {
+    background-color: black;
+    color: white;
+    background-image: url("Screenshot_20261012_181047.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
